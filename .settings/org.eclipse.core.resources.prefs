@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//APP/io_app.c=UTF-8
+encoding//APP/modbus_app.c=UTF-8
+encoding//APP/net_app.c=UTF-8
+encoding//NetLib/eth_driver.c=UTF-8
+encoding//User/main.c=GBK
+encoding//User/net_config.h=UTF-8
+encoding//agile_modbus-1.1.3/README.md=UTF-8
+encoding//agile_modbus-1.1.3/inc/agile_modbus.h=UTF-8
+encoding//agile_modbus-1.1.3/src/agile_modbus.c=UTF-8
+encoding//agile_modbus-1.1.3/src/agile_modbus_rtu.c=UTF-8
+encoding//agile_modbus-1.1.3/util/agile_modbus_slave_util.c=UTF-8
+encoding//agile_modbus-1.1.3/util/agile_modbus_slave_util.h=UTF-8
+encoding//agile_modbus-1.1.3/util/registers.c=UTF-8
+encoding//rtthread/components/drivers/spi/sfud/README.md=UTF-8
+encoding//rtthread/components/drivers/spi/sfud/src/sfud_sfdp.c=UTF-8
+encoding//rtthread/rtconfig.h=UTF-8
